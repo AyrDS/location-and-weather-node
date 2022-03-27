@@ -1,0 +1,1 @@
+The JSON file is stored in this folder, in which the last 6 searches are recorded.
